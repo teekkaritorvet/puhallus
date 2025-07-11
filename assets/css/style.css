@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 100;
+  padding: 0;
+  background: #f6f6f6;
+}
+
+.banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-height: 300px;
+  object-fit: cover;
+  margin: 100;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  background: #003366;
+  padding: 1em 0;
+}
+
+.nav-btn {
+  margin: 0 1em;
+  padding: 0.5em 1.5em;
+  background: #1976d2;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+.nav-btn:hover {
+  background: #125ea8;
+}
+
+.columns {
+  display: flex;
+  max-width: 1200px;
+  margin: 2em auto;
+  gap: 2em;
+  padding: 0 1em;
+  img {
+  max-width: 100%; /* Ensures images never overflow their parent container */
+  height: auto;    /* Maintains the image's aspect ratio */
+  display: block;  /* Removes extra space below inline images (useful for layout) */
+}
+}
+
+.column {
+  flex: 1;
+  background: #fff;
+  padding: 1em;
+  border-radius: 8px;
+  min-height: 400px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+@media (min-width: 576px) {
+  .container { max-width: 540px; }
+}
+@media (min-width: 768px) {
+  .container { max-width: 720px; }
+}

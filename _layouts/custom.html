@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+  <div class="banner">
+    <img src="{{ '/assets/images/banner.jpg' | relative_url }}" alt="Banner">
+  </div>
+
+  <nav class="navbar">
+    <a href="{{ '/' | relative_url }}" class="nav-btn">Puhallus-festivaali</a>
+    <a href="{{ '/aikataulu/' | relative_url }}" class="nav-btn">Aikataulu</a>
+    <a href="{{ '/orkesterit/' | relative_url }}" class="nav-btn">Orkesterit</a>
+    <a href="{{ '/liput/' | relative_url }}" class="nav-btn">Liput</a>
+  </nav>
+
+  <div class="columns">
+    <div class="column left">
+      {% if page.left %}
+        {{ page.left | markdownify }}
+      {% else %}
+        {{ content }}
+      {% endif %}
+    </div>
+    <div class="column right">
+      {% if page.right %}
+      {{ page.right | markdownify }}
+      {% endif %}
+    </div>
+  </div>
+</body>
+</html>
