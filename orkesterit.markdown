@@ -100,7 +100,7 @@ SOSSu eli Helsingin yliopiston Savolaisen Osakunnan Soitannollinen Seura on tän
 ## Studentblaaseaarkæsteret Ompagniet
 
 {% include image_include.html
-  image_path= '/assets/images/Ompagniet.jpg'
+  image_path= '/assets/images/ompagniet.jpg'
   image_alt= 'Kuva  Studentblaaseaarkæsteret Ompagniet orkesterista'
 %}
 

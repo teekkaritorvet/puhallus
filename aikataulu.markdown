@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aikataulu
-permalink: /testi/
+permalink: /aikataulu/
 ---
 Lauantain 20.9. ohjelma koostuu päiväkonsertista, jossa orkesterit 
 soittavat noin puolen tunnin keikan Oulun keskustassa Rotuaarin lavalla
