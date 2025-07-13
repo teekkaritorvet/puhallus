@@ -3,5 +3,7 @@ layout: page
 title: Liput
 permalink: /liput/
 ---
-## Testi
-{% include aikataulu_image.html %}
+Liput Pohjankartanon iltakonserttiin tulevat myyntiin pian!
+
+Päiväkonsertti on kaikille avoin ja ilmainen. Tervetuloa!
+

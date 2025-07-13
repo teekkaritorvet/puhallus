@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="two-column-container">
+  <div class="column-left">
+    {{ content | split:'' | first }}
+  </div>
+  <div class="column-right">
+    {{ content | split:'' | last }}
+  </div>
+</div>

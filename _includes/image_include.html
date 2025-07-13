@@ -1,0 +1,6 @@
+<figure class="page-image">
+  <img src="{{ include.image_path | relative_url }}" alt="{{ include.image_alt }}">
+  {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>

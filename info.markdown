@@ -1,18 +1,23 @@
 ---
 layout: page
-title: info
+title: Info
 permalink: /info/
 ---
+## Saapuminen
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Rotuaari ja Mannerheimin puisto
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Pohjankartanon sali
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Esteettömyys
 
+### Rotuaari
 
-[jekyll-organization]: https://github.com/jekyll
+### Mannerheimin puisto
+
+### Pohjankartanon sali
+
+## Yhteystiedot
+
+Puhallusvastaava: Valtteri Ahonen, +358XXXXXXXX <br>
+Tiedotusvastaava: Hilla Schroderus, puhallus@teekkaritorvet.com
