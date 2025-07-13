@@ -32,7 +32,7 @@ Our repertoire includes all kinds of music, from fast to slow, from waltzy to ja
 {% include image_include.html
   image_path= '/assets/images/pah.jpg'
   image_alt= 'Kuva Puhallinorkesteri Akateeminen Henkäys puhallinorkesterista'
-  caption = 'Kuvaja Henrik Laakkonen'
+  caption = 'Kuvaaja Henrik Laakkonen'
 %}
 
 Puhallinorkesteri Akateeminen Henkäys eli tuttavallisemmin PAH on tamperelainen vuonna 2019 perustettu opiskelijoiden oma puhallinorkesteri. Aktiivinen orkesteri tarjoaa Tampereen korkeakouluyhteisön jäsenille ja muille harrastajille rennon mutta tavoitteellisen musiikkiharrastuksen. PAHin ohjelmisto koostuu niin vanhoista klassikoista kuin nykyaikaisestakin musiikista - marsseista elokuvamusiikin kautta sinfoniseen puhallinmusiikkiin.
@@ -101,7 +101,7 @@ SOSSu eli Helsingin yliopiston Savolaisen Osakunnan Soitannollinen Seura on tän
 
 {% include image_include.html
   image_path= '/assets/images/ompagniet.jpg'
-  image_alt= 'Kuva  Studentblaaseaarkæsteret Ompagniet orkesterista'
+  image_alt= 'Kuva Studentblaaseaarkæsteret Ompagniet orkesterista'
 %}
 
 Ompagniet, verdens nordligste studentblåseorkester, is a student orchestra based in Tromsø. As our name suggests, we're proud to be the northernmost student orchestra in the world! Ompagniet brings together students from across Norway—and from all around the world—creating a diverse and welcoming musical community.
