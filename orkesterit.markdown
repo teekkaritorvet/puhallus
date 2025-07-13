@@ -56,7 +56,7 @@ Puhallinorkesteri Akateeminen Henkäys (or PAH among friends), founded in 2019, 
 Retuperän WBK on maailman paras Uudempaa ranskalaista Torwimusiikkia soittava espoolainen teekkaripalokuntaorkesteri. Kaikki orkesterin soittoa tarkemmin kuulleet ovat varmaan huomanneet, että orkesterin sointi poikkeaa huomattavasti muista orkestereista. Oikeanlaisen äänimaailman saavuttamiseen orkesterilla on useita tapoja, joihin sisältyy niin sanottu oikein väärin soitto, ajan patinaa keränneiden soitinten käyttö sekä huolellinen virittäminen. Kemiallisesti vahvistettu torwiseitsikko on retusoinnillaan onnistunut erottumaan edukseen, minkä voi päätellä orkesterin sammutuskalenteria täyttävistä noin sadasta vuosittaisesta sammutustehtävästä. Orkesterin musisoinnista voi nauttia esimerkiksi wappupäivänä Ullanlinnanmäellä, yksityishenkilöiden ja yritysten tilaisuuksissa sekä jokatoisvuotisissa suurkonserteissa Töölönlahden palokunnantalolla.
 
 [Retuperän WBK](https://rwbk.fi/)
-{% include single_social_icon.html platform="instagram" username="pahpuhku" %}
+{% include single_social_icon.html platform="instagram" username="retuperanwbk" %}
 
 ## RytmiHäiriköt
 
