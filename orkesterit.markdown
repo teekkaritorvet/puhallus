@@ -4,17 +4,126 @@ title: Orkesterit
 permalink: /orkesterit/
 ---
 ## Teekkaritorvet (järjestäjä)
-{% include teekkaritorvet_image.html %}
-
-## Orkesteri 2
-
 {% include image_include.html
-  image_path= '/assets/images/orkesterit.jpg'
-  image_alt= 'Orkesteri 2 kuva'
+  image_path= '/assets/images/teekkaritorvet.jpg'
+  image_alt= 'Kuva Teekkaritorvet puhallinorkesterista'
 %}
 
-Cras convallis nisi arcu, placerat sagittis felis euismod in. Integer ut massa bibendum, lacinia lorem ac, condimentum libero. Nullam finibus lectus sapien, vel malesuada enim auctor ac. Nullam luctus venenatis purus, eu porttitor lectus sodales a. Aenean scelerisque, magna nec semper posuere, nisl lorem feugiat orci, eu venenatis leo lacus id nisl. Ut tempus urna dolor, non sodales ligula accumsan sed. Pellentesque sed fermentum eros. Nulla a ultrices turpis. Duis id nunc a metus luctus tempus. Suspendisse iaculis leo non dolor laoreet pretium. Aenean in porta magna. Mauris dapibus gravida quam nec feugiat.
+Teekkaritorvet on Oulun tavoitelluin viihdeorkesteri, jonka soittajakunta on läpileikkaus uusista ja entisistä oululaisista opiskelijoista. Orkesterin toiminta on jatkunut jo viidenkymmenen vuoden ajan. Teekkaritorvet tarjoaa monipuolista, viihteellistä musiikkia erilaisiin juhlatilaisuuksiin ja tapahtumiin. Tämä orkesteri ei turhia jäykistele vaan puhaltaa itsensä ja yleisönsä kunnon meininkeihin!
 
-## Orkesteri 3
+[Teekkaritorvet](https://www.teekkaritorvet.com/)
+{% include single_social_icon.html platform="instagram" username="teekkaritorvet" %}
+{% include single_social_icon.html platform="facebook" username="teekkaritorvet" %}
+
+## Axelbandet
+
+{% include image_include.html
+  image_path= '/assets/images/axelbandet.jpg'
+  image_alt= 'Kuva Axelbandet puhallinorkesterista'
+%}
+
+We are the best, the biggest, the only big band at Åbo Akademi University! We have been playing nonstop since 1957, and we would love it if you also joined us in our noble goal of continuing to cause maximum confusion for decades to come!
+Our repertoire includes all kinds of music, from fast to slow, from waltzy to jazzy and rocky, from loud to not as loud, and from stupid to serious.
+
+{% include single_social_icon.html platform="instagram" username="axelbandet" %}
+
+## PAH (Puhallinorkesteri Akateeminen Henkäys)
+
+{% include image_include.html
+  image_path= '/assets/images/pah.jpg'
+  image_alt= 'Kuva Puhallinorkesteri Akateeminen Henkäys puhallinorkesterista'
+  caption = 'Kuvaja Henrik Laakkonen'
+%}
+
+Puhallinorkesteri Akateeminen Henkäys eli tuttavallisemmin PAH on tamperelainen vuonna 2019 perustettu opiskelijoiden oma puhallinorkesteri. Aktiivinen orkesteri tarjoaa Tampereen korkeakouluyhteisön jäsenille ja muille harrastajille rennon mutta tavoitteellisen musiikkiharrastuksen. PAHin ohjelmisto koostuu niin vanhoista klassikoista kuin nykyaikaisestakin musiikista - marsseista elokuvamusiikin kautta sinfoniseen puhallinmusiikkiin.
+
+Puhallinorkesteri Akateeminen Henkäys (or PAH among friends), founded in 2019, is a student wind band from Tampere. The active orchestra offers students at Tampere Universities a playful and relaxed, but still an ambitious space to play together. PAH’s repertoire consists of both old classics and new music - from marches and film music to symphonic wind pieces.
+
+{% include single_social_icon.html platform="instagram" username="pahpuhku" %}
+{% include single_social_icon.html platform="facebook" username="pahorkesteri" %}
+
+## Puhkupillit
+ 
+ *tiedot tulossa*
+
+## Retuperän WBK
+
+{% include image_include.html
+  image_path= '/assets/images/rwbk.jpg'
+  image_alt= 'Kuva Retuperän WBK puhallinorkesterista'
+%}
+
+Retuperän WBK on maailman paras Uudempaa ranskalaista Torwimusiikkia soittava espoolainen teekkaripalokuntaorkesteri. Kaikki orkesterin soittoa tarkemmin kuulleet ovat varmaan huomanneet, että orkesterin sointi poikkeaa huomattavasti muista orkestereista. Oikeanlaisen äänimaailman saavuttamiseen orkesterilla on useita tapoja, joihin sisältyy niin sanottu oikein väärin soitto, ajan patinaa keränneiden soitinten käyttö sekä huolellinen virittäminen. Kemiallisesti vahvistettu torwiseitsikko on retusoinnillaan onnistunut erottumaan edukseen, minkä voi päätellä orkesterin sammutuskalenteria täyttävistä noin sadasta vuosittaisesta sammutustehtävästä. Orkesterin musisoinnista voi nauttia esimerkiksi wappupäivänä Ullanlinnanmäellä, yksityishenkilöiden ja yritysten tilaisuuksissa sekä jokatoisvuotisissa suurkonserteissa Töölönlahden palokunnantalolla.
+
+[Retuperän WBK](https://rwbk.fi/)
+{% include single_social_icon.html platform="instagram" username="pahpuhku" %}
+
+## RytmiHäiriköt
+
+{% include image_include.html
+  image_path= '/assets/images/rytmihairikot.jpg'
+  image_alt= 'Kuva RytmiHäiriköt Big Bandista'
+%}
+
+RytmiHäiriköt on Itä-Suomen yliopiston big band. Vuonna 1998  perustetun big bandin taiteellisena johtajana on alusta alkaen toiminut Timo-Teemu Passi. Alusta alkaen omaleimaisella tyylillään rockin polkuja saapastellut orkesteri on kasvanut vuosien varrella sekalaisesta soittokunnasta  ensin rujoksi rock-puhallinorkesteriksi ja lopulta svengaavaksi, groovaavaksi big bandiksi, jonka ohjelmisto kattaa mm. rockin, swingin, soulin ja funkin sävyjä. 
+RytmiHäiriköt edustaa asennetta sekä ennakkoluulotonta, avointa lähestymistä musiikkiin, mutta painottaa ennen kaikkea välitöntä tunnelmaa – niin soittajiensa kuin yleisönsä kanssa. 
+
+[Rytmihäiriköt](https://www.rytmihairikot.fi/)
+{% include single_social_icon.html platform="instagram" username="rytmihairikot" %}
+{% include single_social_icon.html platform="facebook" username="RytmiHairikot" %}
+
+## Sohon Torwet
+
+{% include image_include.html
+  image_path= '/assets/images/sohontorwet.jpg'
+  image_alt= 'Kuva Sohon Torwet filharmoonisesta orkesterista'
+%}
+
+Sohon Torwet eli tuttavallisemmin Turun suomalaisen, sittemmin valtiollistetun, nyttemmin julkisoikeudellisen yliopiston ylioppilaskunnan Satakuntalais-Hämäläinen Osakunta ry:n filharmooninen puhallinorkesteri on Turun yliopiston paras ja monien mielestä myös ainoa opiskelijapuhallinorkesteri. Torwet ovat kohta tuoneet iloa kansalla jo 75 vuotta ja sinä aikana Torwista on tullut vakiintunut osa Turun opiskelijakulttuuria. Viininpunaisista takeista ja valkolakeista tunnistettavien Torwien soittoa pääseekin kuulemaan Turussa monien ainejärjestöjen vuosijuhlissa, vappuna Taidemuseonmäellä ja rekan lavalla sekä tietysti Torwien omassa perinteisessä kevätkonsertissa.
+
+[Sohon Torwet](https://sohontorwet.com/)
+{% include single_social_icon.html platform="instagram" username="sohontorwet" %}
+{% include single_social_icon.html platform="facebook" username="SohonTorwet" %}
+
+## SOSSu
+
+{% include image_include.html
+  image_path= '/assets/images/sossu.jpg'
+  image_alt= 'Kuva Savolaisen Osakunnan Soitannollinen Seura orkesterista'
+%}
+
+SOSSu eli Helsingin yliopiston Savolaisen Osakunnan Soitannollinen Seura on tänä vuonna kaksikymppisiään viettävä orkesteri, joka koostuu parhaimmillaan yli 40 soittajasta. Puhallinsoittimien lisäksi kokoonpanosta löytyy jousisoittimia, basso sekä rummut, mutta erikoisempiakin soittimia on vuosien varrella nähty! Ohjelmistossa ei ole rajana maa eikä taivas vaan soitamme kaikkea klassisesta musiikista poppiin ja kansanmusiikista elokuvatunnareihin. SOSSussa on lisäksi menossa mukana tanssiryhmä KELA, joka esiintyy etenkin festareilla ja viihdyttää myös Puhalluksessa!
+
+[SOSSu](https://sossu-orkesteri.fi/)
+{% include single_social_icon.html platform="instagram" username="sossuorkesteri" %}
+
+## Studentblaaseaarkæsteret Ompagniet
+
+{% include image_include.html
+  image_path= '/assets/images/Ompagniet.jpg'
+  image_alt= 'Kuva  Studentblaaseaarkæsteret Ompagniet orkesterista'
+%}
+
+Ompagniet, verdens nordligste studentblåseorkester, is a student orchestra based in Tromsø. As our name suggests, we're proud to be the northernmost student orchestra in the world! Ompagniet brings together students from across Norway—and from all around the world—creating a diverse and welcoming musical community.
+
+We’re most often seen (and heard!) in parades, performing at events like Arctic Pride and the 17th of May celebrations. But we’re also available for other gigs and performances throughout the year, depending on requests.
+
+Our repertoire is wide-ranging, mixing classical pieces with more modern and recognizable tunes—something for every audience to enjoy. Whether you're catching us on the streets of Tromsø or at a special event, you can expect energy, color, and great music from Ompagniet.
+
+[Studentblaaseaarkæsteret Ompagniet](https://www.samfunnetuit.no/)
+{% include single_social_icon.html platform="instagram" username="ompagniet" %}
+{% include single_social_icon.html platform="facebook" username="ompagniet" %}
+
+## Tampereen teknilliset ylioppilastorwet (TTY)
+*tiedot tulossa*
+
+## Teknologorkestern Humpsvakar
+*tiedot tulossa*
+
+## Torvikopla
+
+*tiedot tulossa*
+
+
 
 

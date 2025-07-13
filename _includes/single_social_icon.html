@@ -1,0 +1,15 @@
+{%- assign icon_name = include.platform | default: "github" | downcase -%}
+{%- assign user_id = include.username | default: "" -%}
+
+<ul class="social-media-list">
+
+  {%- if icon_name == "facebook" -%}
+  <li><a href="https://www.facebook.com/{{ user_id | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg> <span class="username">{{ user_id | escape }}</span></a></li>{%- endif -%}
+
+  {%- if icon_name == "instagram" -%}
+  <li><a href="https://instagram.com/{{ user_id | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg> <span class="username">{{ user_id| escape }}</span></a></li>{%- endif -%}
+  
+  {%- if icon_name == "youtube" -%}
+  <li><a href="https://youtube.com/{{ user_id | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> <span class="username">{{ user_id | escape }}</span></a></li>{%- endif -%}
+
+</ul>
