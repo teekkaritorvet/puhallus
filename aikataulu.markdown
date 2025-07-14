@@ -31,4 +31,4 @@ joten tätä tilaisuutta ei kannata hukata!
 
 ## Iltakonsertti
 
-Iltakonsertti Pohjankartanon aslissa klo 18. Konsertti sisältää väliajan.
+Iltakonsertti Pohjankartanon salissa klo 18. Konsertti sisältää väliajan.
