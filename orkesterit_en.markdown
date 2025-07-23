@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Orkesterit
-permalink: /orkesterit/
-lang: fi
+title: Orchestras
+permalink: /en/orchestras/
+lang: en
 ref: orkesterit
 ---
+*English version coming soon...*
+
 ## Teekkaritorvet (järjestäjä)
 {% include image_include.html
   image_path= '/assets/images/teekkaritorvet.jpg'

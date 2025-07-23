@@ -18,13 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Puhallus-festivaali
+title: Puhallus
 author: Teekkaritorvet ry
 email: puhallus@teekkaritorvet.com
 description: >- # this means to ignore newlines until "baseurl:"
   Puhallus-festivaali järjestetään Oulussa kahdentoista vuoden jälkeen 20.9.2025.
 baseurl: "/puhallus" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+lang: fi
 #twitter_username: jekyllrb
 #github_username:  jekyll
 instagram_username: teekkaritorvet
@@ -40,6 +41,40 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+
+# t:
+  # en:
+    # home:
+      # name: "Puhallus-festival"
+      #url: "/en/"
+    #aikataulu:
+    #  name: "Schedule"
+ #     url: "/en/schedule/"
+  #  orkesterit:
+   #   name: "Orchestras"
+    #  url: "/en/orchestras/"
+   # liput:
+   #   name: "Tickets"
+    #  url: "/en/tickets/"
+   # info:
+    #  name: "Info"
+     # url: "/en/info"
+ # fi:
+  #  home:
+   #   name: "Puhallusfestivaali"
+    #  url: "/"
+  #  aikataulu:
+   #   name: "Aikataulu"
+  #    url: "/aikataulu/"
+  #  orkesterit:
+  #    name: "Orkesterit"
+  #    url: "/orkesterit/"
+  #  liput:
+  #    name: "Liput"
+  #    url: "/liput/"
+  #  info:
+  #    name: "Info"
+  #    url: "/info/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

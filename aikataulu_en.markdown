@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Aikataulu
-permalink: /aikataulu/
-lang: fi
+title: Schedule
+permalink: /en/schedule/
+lang: en
 ref: aikataulu
 ---
+*English version coming soon...*
+
 Lauantain 20.9. ohjelma koostuu päiväkonsertista, jossa orkesterit 
 soittavat noin puolen tunnin keikan Oulun keskustassa Rotuaarin lavalla
 tai Mannerheimin puistossa.

@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Info
-permalink: /info/
-lang: fi
+permalink: /en/info/
+lang: en
 ref: info
 ---
+*English version coming soon...*
+
 ## Saapuminen
 
 ## Rotuaari ja Mannerheimin puisto

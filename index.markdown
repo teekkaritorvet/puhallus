@@ -1,5 +1,7 @@
 ---
 layout: frontpage
+lang: fi
+ref: main
 ---
 ## Oulussa 19.-21.9.2025
 
