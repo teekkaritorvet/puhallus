@@ -2,7 +2,9 @@ body {
   font-family: Arial, sans-serif;
   margin: 100; /* This margin: 100; is unusual, usually it's 100px or 100% or 0 */
   padding: 0;
-  background: #f6f6f6;
+  background: url('../images/background.png') no-repeat center center fixed;
+  background-size: cover;
+  background: #fdfdfd;
 }
 
 .banner img { /* This assumes you have a .banner wrapper around the image in your HTML, if not, it should be .site-header img */
