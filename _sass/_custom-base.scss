@@ -12,6 +12,22 @@ body {
   background-color: #f6f6f6; // Fallback color
 }
 
+/* For Tablets and smaller Desktops (e.g., up to 1024px) */
+@media (max-width: 1024px) {
+  body {
+    background-image: url('../assets/images/background_medium.png');
+    background-position: center center; // Or adjust for this image
+  }
+}
+
+/* For Mobile Devices (e.g., up to 768px or 480px, adjust breakpoint as needed) */
+@media (max-width: 768px) {
+  body {
+    background-image: url('../assets/images/background_small.png');
+    background-position: top center; // Or adjust for this image
+  }
+}
+
 body::before {
   content: ''; /* Required for pseudo-elements */
   position: absolute;
