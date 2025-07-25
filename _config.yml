@@ -28,8 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 lang: fi
 #twitter_username: jekyllrb
 #github_username:  jekyll
-instagram_username: teekkaritorvet
-facebook_username: Teekkaritorvet
+instagram_username: puhallusfestivaali
+#facebook_username: Teekkaritorvet
 
 header_pages:
   - aikataulu.markdown

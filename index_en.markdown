@@ -7,3 +7,5 @@ permalink: /en/
 ## In Oulu 19.-21.9.2025
 
 *English version coming soon...*
+
+{% include youtube_embed.html video_id="nURPKchvhQw" %}
