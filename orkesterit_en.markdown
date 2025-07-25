@@ -5,15 +5,14 @@ permalink: /en/orchestras/
 lang: en
 ref: orkesterit
 ---
-*English version coming soon...*
 
-## Teekkaritorvet (järjestäjä)
+## Teekkaritorvet (organiser)
 {% include image_include.html
   image_path= '/assets/images/teekkaritorvet.jpg'
   image_alt= 'Kuva Teekkaritorvet puhallinorkesterista'
 %}
 
-Teekkaritorvet on Oulun tavoitelluin viihdeorkesteri, jonka soittajakunta on läpileikkaus uusista ja entisistä oululaisista opiskelijoista. Orkesterin toiminta on jatkunut jo viidenkymmenen vuoden ajan. Teekkaritorvet tarjoaa monipuolista, viihteellistä musiikkia erilaisiin juhlatilaisuuksiin ja tapahtumiin. Tämä orkesteri ei turhia jäykistele vaan puhaltaa itsensä ja yleisönsä kunnon meininkeihin!
+*English version coming soon...*
 
 [Teekkaritorvet](https://www.teekkaritorvet.com/)
 {% include single_social_icon.html platform="instagram" username="teekkaritorvet" %}
@@ -39,8 +38,6 @@ Our repertoire includes all kinds of music, from fast to slow, from waltzy to ja
   caption = 'Kuvaaja Henrik Laakkonen'
 %}
 
-Puhallinorkesteri Akateeminen Henkäys eli tuttavallisemmin PAH on tamperelainen vuonna 2019 perustettu opiskelijoiden oma puhallinorkesteri. Aktiivinen orkesteri tarjoaa Tampereen korkeakouluyhteisön jäsenille ja muille harrastajille rennon mutta tavoitteellisen musiikkiharrastuksen. PAHin ohjelmisto koostuu niin vanhoista klassikoista kuin nykyaikaisestakin musiikista - marsseista elokuvamusiikin kautta sinfoniseen puhallinmusiikkiin.
-
 Puhallinorkesteri Akateeminen Henkäys (or PAH among friends), founded in 2019, is a student wind band from Tampere. The active orchestra offers students at Tampere Universities a playful and relaxed, but still an ambitious space to play together. PAH’s repertoire consists of both old classics and new music - from marches and film music to symphonic wind pieces.
 
 {% include single_social_icon.html platform="instagram" username="pahpuhku" %}
@@ -57,7 +54,7 @@ Puhallinorkesteri Akateeminen Henkäys (or PAH among friends), founded in 2019, 
   image_alt= 'Kuva Retuperän WBK puhallinorkesterista'
 %}
 
-Retuperän WBK on maailman paras Uudempaa ranskalaista Torwimusiikkia soittava espoolainen teekkaripalokuntaorkesteri. Kaikki orkesterin soittoa tarkemmin kuulleet ovat varmaan huomanneet, että orkesterin sointi poikkeaa huomattavasti muista orkestereista. Oikeanlaisen äänimaailman saavuttamiseen orkesterilla on useita tapoja, joihin sisältyy niin sanottu oikein väärin soitto, ajan patinaa keränneiden soitinten käyttö sekä huolellinen virittäminen. Kemiallisesti vahvistettu torwiseitsikko on retusoinnillaan onnistunut erottumaan edukseen, minkä voi päätellä orkesterin sammutuskalenteria täyttävistä noin sadasta vuosittaisesta sammutustehtävästä. Orkesterin musisoinnista voi nauttia esimerkiksi wappupäivänä Ullanlinnanmäellä, yksityishenkilöiden ja yritysten tilaisuuksissa sekä jokatoisvuotisissa suurkonserteissa Töölönlahden palokunnantalolla.
+*English version coming soon...*
 
 [Retuperän WBK](https://rwbk.fi/)
 {% include single_social_icon.html platform="instagram" username="retuperanwbk" %}
@@ -69,8 +66,7 @@ Retuperän WBK on maailman paras Uudempaa ranskalaista Torwimusiikkia soittava e
   image_alt= 'Kuva RytmiHäiriköt Big Bandista'
 %}
 
-RytmiHäiriköt on Itä-Suomen yliopiston big band. Vuonna 1998  perustetun big bandin taiteellisena johtajana on alusta alkaen toiminut Timo-Teemu Passi. Alusta alkaen omaleimaisella tyylillään rockin polkuja saapastellut orkesteri on kasvanut vuosien varrella sekalaisesta soittokunnasta  ensin rujoksi rock-puhallinorkesteriksi ja lopulta svengaavaksi, groovaavaksi big bandiksi, jonka ohjelmisto kattaa mm. rockin, swingin, soulin ja funkin sävyjä. 
-RytmiHäiriköt edustaa asennetta sekä ennakkoluulotonta, avointa lähestymistä musiikkiin, mutta painottaa ennen kaikkea välitöntä tunnelmaa – niin soittajiensa kuin yleisönsä kanssa. 
+*English version coming soon...*
 
 [Rytmihäiriköt](https://www.rytmihairikot.fi/)
 {% include single_social_icon.html platform="instagram" username="rytmihairikot" %}
@@ -83,7 +79,7 @@ RytmiHäiriköt edustaa asennetta sekä ennakkoluulotonta, avointa lähestymist�
   image_alt= 'Kuva Sohon Torwet filharmoonisesta orkesterista'
 %}
 
-Sohon Torwet eli tuttavallisemmin Turun suomalaisen, sittemmin valtiollistetun, nyttemmin julkisoikeudellisen yliopiston ylioppilaskunnan Satakuntalais-Hämäläinen Osakunta ry:n filharmooninen puhallinorkesteri on Turun yliopiston paras ja monien mielestä myös ainoa opiskelijapuhallinorkesteri. Torwet ovat kohta tuoneet iloa kansalla jo 75 vuotta ja sinä aikana Torwista on tullut vakiintunut osa Turun opiskelijakulttuuria. Viininpunaisista takeista ja valkolakeista tunnistettavien Torwien soittoa pääseekin kuulemaan Turussa monien ainejärjestöjen vuosijuhlissa, vappuna Taidemuseonmäellä ja rekan lavalla sekä tietysti Torwien omassa perinteisessä kevätkonsertissa.
+*English version coming soon...*
 
 [Sohon Torwet](https://sohontorwet.com/)
 {% include single_social_icon.html platform="instagram" username="sohontorwet" %}
@@ -96,7 +92,7 @@ Sohon Torwet eli tuttavallisemmin Turun suomalaisen, sittemmin valtiollistetun, 
   image_alt= 'Kuva Savolaisen Osakunnan Soitannollinen Seura orkesterista'
 %}
 
-SOSSu eli Helsingin yliopiston Savolaisen Osakunnan Soitannollinen Seura on tänä vuonna kaksikymppisiään viettävä orkesteri, joka koostuu parhaimmillaan yli 40 soittajasta. Puhallinsoittimien lisäksi kokoonpanosta löytyy jousisoittimia, basso sekä rummut, mutta erikoisempiakin soittimia on vuosien varrella nähty! Ohjelmistossa ei ole rajana maa eikä taivas vaan soitamme kaikkea klassisesta musiikista poppiin ja kansanmusiikista elokuvatunnareihin. SOSSussa on lisäksi menossa mukana tanssiryhmä KELA, joka esiintyy etenkin festareilla ja viihdyttää myös Puhalluksessa!
+*English version coming soon...*
 
 [SOSSu](https://sossu-orkesteri.fi/)
 {% include single_social_icon.html platform="instagram" username="sossuorkesteri" %}
