@@ -3,7 +3,7 @@ layout: frontpage
 lang: fi
 ref: main
 ---
-## Oulussa 19.-21.9.2025
+## Oulussa 20.9.2025
 
 Puhallus-festivaali on joka toinen vuosi järjestettävä puhallinmusiikkitapahtuma, joka kerää yhteen yhteen akateemisia puhallinorkestereita ympäri Suomen. Tapahtumaa on järjestetty vuodesta 1990 lähtien vuorotellen eri opiskelijakaupungeissa. Vuonna 2025 tapahtuma saapuu Ouluun 12 vuoden tauon jälkeen.
 

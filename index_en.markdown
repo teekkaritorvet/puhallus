@@ -4,7 +4,7 @@ lang: en
 ref: main
 permalink: /en/
 ---
-## In Oulu 19.-21.9.2025
+## In Oulu 20.9.2025
 
 *English version coming soon...*
 
