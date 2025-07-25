@@ -115,10 +115,28 @@ Our repertoire is wide-ranging, mixing classical pieces with more modern and rec
 {% include single_social_icon.html platform="facebook" username="ompagniet" %}
 
 ## Tampereen teknilliset ylioppilastorwet (TTY)
-*tiedot tulossa*
+
+{% include image_include.html
+  image_path= '/assets/images/TTY.jpg'
+  image_alt= 'Picture of Tampereen teknilliset ylioppilastorvet orchestra'
+%}
+
+*English version coming soon...*
+
+[Tampereen teknilliset ylioppilastorwet](https://www.ttytorwet.fi/)
+{% include single_social_icon.html platform="instagram" username="ttytorwet" %}
+{% include single_social_icon.html platform="youtube" username="@ttytorwet" %}
 
 ## Teknologorkestern Humpsvakar
-*tiedot tulossa*
+{% include image_include.html
+  image_path= '/assets/images/humpsvakar.jpg'
+  image_alt= 'Picture of Teknologorkestern Humpsvakar orchestra'
+%}
+
+*English version coming soon...*
+
+[Teknologorkestern Humpsvakar](https://humpsvakar.fi/)
+{% include single_social_icon.html platform="instagram" username="humpsvakar" %}
 
 ## Torvikopla
 
