@@ -26,3 +26,181 @@ body::before {
   // OR
   background-color: rgba(255, 255, 255, 0.75); /* 50% opaque white overlay (makes image lighter/faded) */
 }
+
+// _sass/_custom-overrides.scss
+
+.site-header {
+  border-bottom: none; /* This will remove the 1px bottom border */
+}
+
+.site-footer {
+  border-top: none; /* This will remove the 1px bottom border */
+}
+
+/* 1. Header Banner */
+.site-header .header-banner {
+  width: 100%;
+  text-align: center; /* Center the image horizontally if it's not 100% wide */
+  padding-bottom: 10px; /* Space below the banner */
+}
+
+.site-header .header-banner img {
+  max-width: 100%; /* Ensure banner image scales down if too large */
+  height: auto;   /* Maintain aspect ratio */
+  display: block; /* Remove any extra space below image if it's inline */
+  margin: 0 auto; /* Center the image if it's less than 100% width */
+}
+
+/* 2. Header Navigation Wrapper: Main Flex Container for Both Desktop & Mobile */
+.site-header .header-nav-wrapper {
+  display: flex;
+  justify-content: space-between; /* Aligns content to the far LEFT */
+  align-items: center;       /* Vertically centers items if they have different heights */
+  padding-top: 10px; /* Add some space above the nav */
+  padding-bottom: 10px; /* Add some space below the nav */
+
+  /* Ensure the Minima default max-width and padding are applied here if needed.
+     Minima's .wrapper usually sets max-width and padding-left/right.
+     You might need to re-apply them if they aren't cascading, or ensure this wrapper
+     has the same max-width/padding as other content wrappers. */
+}
+
+/* 3. Site Navigation (.site-nav): Contains Hamburger and Collapsible Menu */
+.site-nav {
+  // Reset any floats/margins Minima might apply by default
+  float: none !important;
+  margin: 0 !important;
+  width: auto; /* Allow it to size to its content (hamburger on mobile, links on desktop) */
+}
+
+/* 4. Adjust spacing of the individual page links within the navigation */
+.site-nav .trigger {
+  display: flex !important;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 15px; /* Space between links and language selector */
+}
+
+/* Language Selector Wrapper */
+.language-selector-wrapper {
+  position: relative; /* For the custom arrow */
+  display: inline-block; /* For its own width control */
+  min-width: 80px;
+  width: 100px; /* Fixed width for consistent visual spacing */
+  z-index: 10;
+}
+
+/* Custom Select Box Styling (Applies universally) */
+.language-selector-wrapper select {
+  appearance: none; -webkit-appearance: none; -moz-appearance: none;
+  background-color: #f8f8f8; color: #333; border: 1px solid #ccc;
+  border-radius: 4px; padding: 8px 30px 8px 12px;
+  font-size: 0.95em; cursor: pointer; line-height: 1.5;
+  width: 100%; box-sizing: border-box;
+  &:focus { outline: none; border-color: #007bff; box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); }
+}
+.language-selector-wrapper::after {
+  content: '\25BC'; position: absolute; top: 50%; right: 12px;
+  transform: translateY(-50%); pointer-events: none; color: #555; font-size: 0.8em;
+}
+
+/* --- Mobile Layout (Below 768px) --- */
+@media (max-width: 768px) {
+
+  .site-header {
+    position: relative;
+  }
+  .site-header .header-nav-wrapper {
+    justify-content: space-between; /* Language Selector left, Nav (with Hamburger) right */
+    padding-top: 5px; /* Smaller padding for mobile header */
+    padding-bottom: 5px;
+  }
+
+  /* Order for mobile: Language Selector on the Left, Nav (with Hamburger) on the Right */
+  .language-selector-wrapper {
+    order: -1; /* Push to the left (first in row) */
+    margin-right: auto !important; /* Pushes it away from the right side, consuming left space */
+    margin-left: 0 !important; /* Ensure no conflicts */
+    text-align: left; /* Align select box left */
+    width: auto !important; /* Allow its width to be natural, or keep 100px if preferred */
+  }
+
+  .site-nav {
+    order: 1; /* Keep Nav on the right */
+    width: auto; /* Allow nav to size to its hamburger/menu icon */
+    position: static !important;
+  }
+
+  // Ensure the actual checkbox input is always hidden
+  .site-nav .nav-trigger {
+    display: none !important; // Explicitly hide the checkbox input itself
+  }
+
+  // Style the hamburger icon (the label) to be visible
+  .site-nav label[for="nav-trigger"] {
+    float: none !important;
+    margin-left: auto !important;
+    position: relative; /* For z-index to bring it above menu */
+    z-index: 20;
+    height: 40px; /* Set a fixed height for the clickable area */
+    width: 40px;  /* Set a fixed width for the clickable area */
+    display: flex !important; /* Make sure hamburger icon is visible */
+    align-items: center; /* Vertically center the SVG */
+    justify-content: center; /* Horizontally center the SVG */
+    cursor: pointer;
+  }
+  .site-nav .menu-icon {
+    // Basic styling to ensure it's clickable
+    padding: 0 !important  // Remove any previous padding
+  }
+
+
+  // The actual menu links (.trigger) should be hidden by default on mobile
+  // and expand. This requires positioning them absolutely below the header bar.
+  .site-nav .trigger {
+    display: block !important; /* Essential to allow block-level children and max-height toggle */
+    position: absolute; /* Take it out of flow for positioning below header row */
+    top: 100%; /* Position it below the .site-nav (which contains the hamburger) */
+    right: 0; /* Align to the right edge of the .site-nav (which is itself right-aligned) */
+    left: 0;
+    width: 100%; /* Make it full width across the content area */
+    background-color: #f8f8f8; /* Add a background color to the dropdown */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Add a subtle shadow */
+    z-index: 15; /* Ensure it's above main content but below top bar */
+    padding-left: 30px; // <<<--- IMPORTANT: Add padding to alSign with .wrapper content
+    padding-right: 30px; // <<<--- IMPORTANT: Add padding to align with .wrapper content
+    box-sizing: border-box; // Ensure padding is included in the width calculation
+
+    // Minima's default max-height/overflow for collapsing
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-in-out; /* Smooth transition */
+  }
+
+  // Minima's checkbox hack to show/hide the menu
+  #nav-trigger:checked + label + .trigger {
+    max-height: 100vh; /* Adjust as needed to fit all menu items */
+    overflow: auto; /* In case content exceeds max-height */
+    overflow-x: hidden;
+  }
+
+  // Style individual links within the mobile menu dropdown
+  .site-nav .trigger .page-link {
+    display: block !important; // Stack them vertically
+    padding: 10px 0 !important; // Add padding for clickability
+    text-align: left !important; // Align text to the left within the dropdown
+    width: 100% !important; // Take full width of the dropdown
+    border-bottom: 1px solid #eee; // Add a separator
+    &:last-child { border-bottom: none; }
+  }
+
+  // Language selector specific styles for mobile (if it needs to be different than desktop)
+  .language-selector-wrapper select {
+    padding: 6px 25px 6px 10px;
+    font-size: 0.9em;
+  }
+
+  .language-selector-wrapper::after {
+    right: 10px;
+  }
+}
