@@ -109,11 +109,30 @@ SOSSu eli Helsingin yliopiston Savolaisen Osakunnan Soitannollinen Seura on tän
 {% include single_social_icon.html platform="facebook" username="ompagniet" %}
 
 ## Tampereen teknilliset ylioppilastorwet (TTY)
-*tiedot tulossa*
 
-## Teknologorkestern Humpsvakar
-*tiedot tulossa*
+{% include image_include.html
+  image_path= '/assets/images/TTY.jpg'
+  image_alt= 'Kuva Tampereen teknilliset ylioppilastorvet orkesterista'
+%}
 
+Tampereen teknilliset ylioppilastorwet (lyh. TTY tai TTY-torwet) on tamperelainen vaskisoitinyhtye, joka mukailee perinteistä torviseitsikkokokoonpanoa. Yhtye perustettiin Tampereen yliopiston Hervannan kampuksella vuonna 2021. Yhtye koostuu opiskelijoista ja alumneista. TTY-torwien tarkoituksena on vaalia teekkarikulttuurin ohella suomalaista vaskiseitsikkoperinnettä.
+
+[Tampereen teknilliset ylioppilastorwet](https://www.ttytorwet.fi/)
+{% include single_social_icon.html platform="instagram" username="ttytorwet" %}
+{% include single_social_icon.html platform="youtube" username="@ttytorwet" %}
+
+
+## Teknologorkestern Humpsvakar & Rumpskakar
+
+{% include image_include.html
+  image_path= '/assets/images/humpsvakar.jpg'
+  image_alt= 'Kuva Teknologorkestern Humpsvakar orkesterista'
+%}
+
+Vuonna 1961 perustettu Teknologorkestern Humpsvakar on kotoisin Aalto-Yliopiston Teknologföreningenilta. Orkesteri soittaa iloista ja svengaavaa torvimusiikkia, ja orkesterin tahtiin tanssi Baletten Rumpskakar. Lavalla voi kuitenkin nähdä paljon muutakin kun soittajia ja tanssioita - hirvi, banaani, WC-pönttö, moottorisaha...Bompa går!
+
+[Teknologorkestern Humpsvakar](https://humpsvakar.fi/)
+{% include single_social_icon.html platform="instagram" username="humpsvakar" %}
 ## Torvikopla
 
 *tiedot tulossa*
