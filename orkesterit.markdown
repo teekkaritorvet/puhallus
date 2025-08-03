@@ -42,7 +42,16 @@ Puhallinorkesteri Akateeminen Henkäys eli tuttavallisemmin PAH on tamperelainen
 
 ## Puhkupillit
  
- *tiedot tulossa*
+{% include image_include.html
+  image_path= '/assets/images/puhkupillit.jpg'
+  image_alt= 'Kuva Puhkupillit puhallinorkesterista'
+%}
+
+Jyväskylän yliopiston puhallinorkesteri Puhkupillit eli Puhkut on pääosin Jyväskylän korkeakouluopiskelijoista koostuva 42-vuotias orkesteri. Tällä hetkellä yli 50-henkisen koon saavuttanut orkesteri soittaa monenlaista musiikkia kevyistä kappaleista sinfoniseen puhallinmusiikkiin. Puhkuja kuullaan vuoden ympäri niin opiskelijatapahtumissa kuin orkesterin itse järjestämissä konserteissa. Menneenä keväänä Puhkujen kauden huipensi Turussa järjestetyt puhallinorkesterien SM-kisat, joista kotiin lähdettiin suomenmestaruustunnelmissa.
+
+[Puhkupillit](https://www.puhkupillit.fi/)
+{% include single_social_icon.html platform="instagram" username="puhkupillit" %}
+{% include single_social_icon.html platform="facebook" username="puhkut" %}
 
 ## Retuperän WBK
 
@@ -133,10 +142,15 @@ Vuonna 1961 perustettu Teknologorkestern Humpsvakar on kotoisin Aalto-Yliopiston
 
 [Teknologorkestern Humpsvakar](https://humpsvakar.fi/)
 {% include single_social_icon.html platform="instagram" username="humpsvakar" %}
+
 ## Torvikopla
 
-*tiedot tulossa*
+{% include image_include.html
+  image_path= '/assets/images/torvikopla.jpg'
+  image_alt= 'Kuva Torvikopla orkesterista'
+%}
 
+Torvikopla Big Band on tamperelainen orkesteri, jossa soittaa monipuolinen joukko korkeakouluopiskelijoita, jo työelämään siirtyneitä sekä muita musiikin harrastajia. Torvikopla soittaa rennolla meiningillä swingiä ja pop-kappaleiden big band-sovituksia, mutta repertuaaria on laajennettu muun muassa myös latinorytmeihin. Torvikoplan ohjelmistoon kuuluu swing-klassikoita, joiden lisäksi Erika Vikmanin ja Anssi Kelan tuotanto tanssittaa yleisöä. Perinteisen big band-kokoonpanon lisäksi Torvikoplassa on puupuhallinsektio. 
 
-
-
+[Torvikopla](https://torvikopla.fi/)
+{% include single_social_icon.html platform="instagram" username="torvikoplabigband" %}

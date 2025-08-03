@@ -44,8 +44,17 @@ Puhallinorkesteri Akateeminen Henkäys (or PAH among friends), founded in 2019, 
 {% include single_social_icon.html platform="facebook" username="pahorkesteri" %}
 
 ## Puhkupillit
- 
- *tiedot tulossa*
+
+{% include image_include.html
+  image_path= '/assets/images/puhkupillit.jpg'
+  image_alt= 'Picture of Puhkupillit wind orchrestra'
+%} 
+
+*English version coming soon...*
+
+[Puhkupillit](https://www.puhkupillit.fi/)
+{% include single_social_icon.html platform="instagram" username="puhkupillit" %}
+{% include single_social_icon.html platform="facebook" username="puhkut" %}
 
 ## Retuperän WBK
 
@@ -140,8 +149,12 @@ Our repertoire is wide-ranging, mixing classical pieces with more modern and rec
 
 ## Torvikopla
 
-*tiedot tulossa*
+{% include image_include.html
+  image_path= '/assets/images/torvikopla.jpg'
+  image_alt= 'Picture of Torvikopla orchestra'
+%}
 
+*English version coming soon...*
 
-
-
+[Torvikopla](https://torvikopla.fi/)
+{% include single_social_icon.html platform="instagram" username="torvikoplabigband" %}
