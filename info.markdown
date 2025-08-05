@@ -18,7 +18,7 @@ Iltakonserttipaikka (Pohjankartanon sali) sijaitsee n. 700 metrin kävelymatkan 
 
 Pysäköinti on mahdollista Taka-Lyötyssä Caritas-talon vieressä osoitteessa Kapellimestarinkatu 8 ([kartta](https://oulunmusiikkikeskus2020.lianacms.com/media/musiikkikeskus-materiaalit/musiikkikeskuksen-asiakkaiden-pysakointi.jfif)). Myös Pohjankartanon monitoimitalon vieressä sijaitsevalla pysäköintikiekollisella pysäköintialueella Leevi Madetojan kadun puolella.
 
-Lentoasemalta pääsee bussilinjalla 8 [Rautasaari P(2127)](https://oulunliikenne.fi/pysakit/OULU%3A120811) pysäkille, josta on noin 500 metrin kävelymatka konserttipaikalle.
+Lentoasemalta pääsee bussilinjalla 8 [Rautasaari P (2127)](https://oulunliikenne.fi/pysakit/OULU%3A120811) pysäkille, josta on noin 500 metrin kävelymatka konserttipaikalle.
 
 
 
@@ -26,14 +26,14 @@ Lentoasemalta pääsee bussilinjalla 8 [Rautasaari P(2127)](https://oulunliikenn
 
 ### Rotuaari
 
-* Ei Inva-WC:tä, mutta esimerkiksi ravintola Amarillosta ja kauppakeskus Valkeasta löytyy sellainen
-* Joukkoliikenteellä pääsee parhaiten [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799) tai[Hellaakoski (2111)](https://oulunliikenne.fi/pysakit/OULU%3A120798) pysäkille, josta kävelukatua pitkin pääsee sekä Rotuaarin lavalle, että Mannerheimin puistoon
-* Esteetön pysäköinti Kivisydämessä (maksullinen), mistä pääsee Rotuaarin aukiolle
+* Ei Inva-WC:tä, mutta esimerkiksi ravintola Amarillosta ja kauppakeskus Valkeasta löytyy sellainen.
+* Joukkoliikenteellä pääsee parhaiten [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799) tai [Hellaakoski (2111)](https://oulunliikenne.fi/pysakit/OULU%3A120798) pysäkille, josta kävelukatua pitkin pääsee sekä Rotuaarin lavalle, että Mannerheimin puistoon.
+* Esteetön pysäköinti Kivisydämessä (maksullinen), mistä pääsee Rotuaarin aukiolle.
 
 ### Mannerheimin puisto
 
-* Yleiset WC:t missä Inva-WC
-* Joukkoliikenteellä pääsee parhaiten [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799) tai [Hellaakoski (2111)](https://oulunliikenne.fi/pysakit/OULU%3A120798) pysäkille, josta kävelukatua pitkin pääsee sekä Rotuaarin lavalle, että Mannerheimin puistoon
+* Yleiset WC:t missä Inva-WC.
+* Joukkoliikenteellä pääsee parhaiten [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799) tai [Hellaakoski (2111)](https://oulunliikenne.fi/pysakit/OULU%3A120798) pysäkille, josta kävelukatua pitkin pääsee sekä Rotuaarin lavalle, että Mannerheimin puistoon.
 * Esteetön pysäköinti Kivisydämessä (maksullinen), mistä pääsee Rotuaarin aukiolle. Tästä on n. 400 m Mannerheimin puistoon.
 
 ### Pohjankartanon sali
