@@ -104,11 +104,11 @@ SOSSu eli Helsingin yliopiston Savolaisen Osakunnan Soitannollinen Seura on tän
 [SOSSu](https://sossu-orkesteri.fi/)
 {% include single_social_icon.html platform="instagram" username="sossuorkesteri" %}
 
-## Studentblaaseaarkæsteret Ompagniet
+## Ompagniet
 
 {% include image_include.html
   image_path= '/assets/images/ompagniet.jpg'
-  image_alt= 'Kuva Studentblaaseaarkæsteret Ompagniet orkesterista'
+  image_alt= 'Kuva Ompagniet orkesterista'
 %}
 
 *Suomenkielinen versio tulossa*

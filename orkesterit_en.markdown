@@ -106,11 +106,11 @@ Puhallinorkesteri Akateeminen Henkäys (or PAH among friends), founded in 2019, 
 [SOSSu](https://sossu-orkesteri.fi/)
 {% include single_social_icon.html platform="instagram" username="sossuorkesteri" %}
 
-## Studentblaaseaarkæsteret Ompagniet
+## Ompagniet
 
 {% include image_include.html
   image_path= '/assets/images/ompagniet.jpg'
-  image_alt= 'Kuva Studentblaaseaarkæsteret Ompagniet orkesterista'
+  image_alt= 'Kuva Ompagniet orkesterista'
 %}
 
 Ompagniet, verdens nordligste studentblåseorkester, is a student orchestra based in Tromsø. As our name suggests, we're proud to be the northernmost student orchestra in the world! Ompagniet brings together students from across Norway—and from all around the world—creating a diverse and welcoming musical community.
