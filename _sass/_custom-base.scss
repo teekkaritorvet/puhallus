@@ -78,7 +78,10 @@ body::before {
   align-items: center;       /* Vertically centers items if they have different heights */
   padding-top: 10px; /* Add some space above the nav */
   padding-bottom: 10px; /* Add some space below the nav */
+  padding-left: 40px;
+  padding-right: 40px;
   background-color: #749FFB; // Fallback color
+  max-width: calc(740px - (40px * 2));
 
   /* Ensure the Minima default max-width and padding are applied here if needed.
      Minima's .wrapper usually sets max-width and padding-left/right.
