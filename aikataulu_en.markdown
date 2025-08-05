@@ -7,32 +7,24 @@ ref: aikataulu
 ---
 *English version coming soon...*
 
-Lauantain 20.9. ohjelma koostuu päiväkonsertista, jossa orkesterit 
-soittavat noin puolen tunnin keikan Oulun keskustassa Rotuaarin lavalla
-tai Mannerheimin puistossa.
 
-Festivaali huipentuu iltakonserttiin, jossa jokainen orkesteri astuu lavalle esittämään
-kaikista parhaan spektaakkelinsa. Tämä konsertti sisältää siis yhteensä 12 erilaista esitystä
-jokaiselta osallistuvalta orkesterilta. Näin paljon soittajia lavalla näkee hyvin harvoin
-joten tätä tilaisuutta ei kannata hukata!
+## Schedule of the day concert
 
-## Päiväkonsertin aikataulu
-
-|Aika               | Rotuaari    | Mannerheimin puisto |
+|Time               | Rotuaari    | Mannerheimin puisto |
 | ----              | ----------- | -----------         |
-| 10.25-10.55       | R1          | *Roudaustauko*      |
-| 10.45-11.15       | *Roudaustauko*        | M1 |
-| 11.25-11.55       | R2    | *Roudaustauko*   |
-| 11.35-12.05       | *Roudaustauko*        | M2 |
-| 12.20-12.50       | *Roudaustauko*        | M3 |
-| 12.30-13.00       | R3       | *Roudaustauko*  |
-| 13.10-13.40       | *Roudaustauko*   | M4 |
-| 13.30-14.00       | R4       | *Roudaustauko* |
-| 14.00-14.30       | *Roudaustauko*   | M4 |
-| 14.30-15.00       | R5       | *Roudaustauko*  |
-| 14.50-15.20       | *Roudaustauko*     | M6|
-| 15.30-16.00       | Teekkaritorvet       | *Roudaustauko*  |
+| 10.00-10.30       | Torvikopla          | *Break*      |
+| 10.20-10.50       | *Break*        | Humpsvakar & Rumpskakar |
+| 11.00-11.30       | Sohon Torwet    | *Break*   |
+| 11.10-11.40       | *Break*        | PAH |
+| 11.55-12.25       | *Break*        | Ompagniet |
+| 12.05-12.35       | Puhkupillit       | *Break*  |
+| 12.45-13.15       | *Break*   | Retuperän WBK |
+| 13.10-13.40       | Axelbandet       | *Break* |
+| 13.35-14.05       | *Break*   | TTY |
+| 14.10-14.40       | RytmiHäiriköt       | *Break*  |
+| 14.25-14.55       | *Break*     | Teekkaritorvet |
+| 15.10-15.40       | SOSSu      | *Break*  |
 
-## Iltakonsertti
+## Evening concert
 
-Iltakonsertti Pohjankartanon salissa klo 18. Konsertti sisältää väliajan.
+*English version coming soon...*

@@ -11,7 +11,7 @@ Ouluun pääsee junalla, bussilla, autolla tai lentokoneella.
 
 ### Rotuaari ja Mannerheimin puisto
 
-Rautatie- ja bussiasema sijaitsevat alle kilometrin kävelymatkan päässä päiväkonsertin lavoilta. Lisäksi paikallisliikenne liikennöi pysäkiltä [Linja-autoasema E(2109)](https://oulunliikenne.fi/pysakit/OULU%3A120796) (esimerkiksi bussit 2, 7, 8, 5) sekä [Matkakeskus P(3222)](https://oulunliikenne.fi/pysakit/OULU%3A184167) (bussit A ja C). Autolla voi parkkeerata esimerkiksi Kivisydämeen, mistä on uloskäynti suoraan Rotuaarin lavan eteen. Oulun lentoasema sijaitsee n. 15 kilometrin ajomatkan päässä Oulunsalossa. Bussilinjat 8 ja 9 liikennöivät sieltä Rotuaarin lavan ja Mannerheimin puiston läheisyyteen pysäkille [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799).
+Rautatie- ja bussiasema sijaitsevat alle kilometrin kävelymatkan päässä päiväkonsertin lavoilta. Lisäksi paikallisliikenne liikennöi pysäkiltä [Linja-autoasema E (2109)](https://oulunliikenne.fi/pysakit/OULU%3A120796) (esimerkiksi bussit 2, 7, 8, 5) sekä [Matkakeskus P (3222)](https://oulunliikenne.fi/pysakit/OULU%3A184167) (bussit A ja C). Autolla voi parkkeerata esimerkiksi Kivisydämeen, mistä on uloskäynti suoraan Rotuaarin lavan eteen. Oulun lentoasema sijaitsee n. 15 kilometrin ajomatkan päässä Oulunsalossa. Bussilinjat 8 ja 9 liikennöivät sieltä Rotuaarin lavan ja Mannerheimin puiston läheisyyteen pysäkille [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799).
 
 ## Pohjankartanon sali
 Iltakonserttipaikka (Pohjankartanon sali) sijaitsee n. 700 metrin kävelymatkan päässä Oulun rautatie- ja bussiasemista.
