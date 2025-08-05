@@ -64,6 +64,6 @@ Puhalluksen osallistujaorkesterit ja niiden jäsenet ovat sitoutuneet noudattama
 
 ## Yhteystiedot
 
-Puhallusvastaava: Valtteri Ahonen, +358XXXXXXXX, [valtteri.ahonen@teekkaritorvet.com](mailto:valtteri.ahonen@teekkaritorvet.com) <br>
+Puhallusvastaava: Valtteri Ahonen, +358445615120, [valtteri.ahonen@teekkaritorvet.com](mailto:valtteri.ahonen@teekkaritorvet.com) <br>
 Tiedotusvastaava: Hilla Schroderus, [puhallus@teekkaritorvet.com](mailto:puhallus@teekkaritorvet.com) <br>
 Häirintäyhdyshenkilö: Riikka Jämsén, [hary@teekkaritorvet.com](mailto:hary@teekkaritorvet.com)
