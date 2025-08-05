@@ -41,4 +41,4 @@ ref: info
 
 Puhallus event manager: Valtteri Ahonen, +358445615120, [valtteri.ahonen@teekkaritorvet.com](mailto:valtteri.ahonen@teekkaritorvet.com) <br>
 Communications manager: Hilla Schroderus, [puhallus@teekkaritorvet.com](mailto:puhallus@teekkaritorvet.com) <br>
-Harrashment contact person: Riikka Jämsén, [hary@teekkaritorvet.com](mailto:hary@teekkaritorvet.com)
+Harrashment contact person: Riikka Jämsén and Oula Lipponen, [hary@teekkaritorvet.com](mailto:hary@teekkaritorvet.com)
