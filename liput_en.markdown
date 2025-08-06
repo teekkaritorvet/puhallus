@@ -7,7 +7,9 @@ ref: liput
 ---
 *English version coming soon...*
 
-Liput Pohjankartanon iltakonserttiin tulevat myyntiin pian! Päiväkonsertti on kaikille avoin ja ilmainen. Tervetuloa!
+Liput Pohjankartanon iltakonserttiin tulevat myyntiin pian!
+
+## Osta liput iltakonserttiin
 
 {%- include lippukauppa.html -%}
 
