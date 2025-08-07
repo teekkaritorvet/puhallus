@@ -19,8 +19,8 @@ kaikista parhaan spektaakkelinsa 12 minuutissa. Tämä konsertti sisältää sii
 | 10.00-10.30       | Torvikopla          | *Roudaustauko*      |
 | 10.20-10.50       | *Roudaustauko*        | Humpsvakar & Rumpskakar |
 | 11.00-11.30       | Sohon Torwet    | *Roudaustauko*   |
-| 11.10-11.40       | *Roudaustauko*        | PAH |
-| 11.55-12.25       | *Roudaustauko*        | Ompagniet |
+| 11.10-11.40       | *Roudaustauko*        | Ompagniet |
+| 11.55-12.25       | *Roudaustauko*        | PAH |
 | 12.05-12.35       | Puhkupillit       | *Roudaustauko*  |
 | 12.45-13.15       | *Roudaustauko*   | Retuperän WBK |
 | 13.10-13.40       | Axelbandet       | *Roudaustauko* |

@@ -15,8 +15,8 @@ ref: aikataulu
 | 10.00-10.30       | Torvikopla          | *Break*      |
 | 10.20-10.50       | *Break*        | Humpsvakar & Rumpskakar |
 | 11.00-11.30       | Sohon Torwet    | *Break*   |
-| 11.10-11.40       | *Break*        | PAH |
-| 11.55-12.25       | *Break*        | Ompagniet |
+| 11.10-11.40       | *Break*        | Ompagniet |
+| 11.55-12.25       | *Break*        | PAH |
 | 12.05-12.35       | Puhkupillit       | *Break*  |
 | 12.45-13.15       | *Break*   | Retuperän WBK |
 | 13.10-13.40       | Axelbandet       | *Break* |
