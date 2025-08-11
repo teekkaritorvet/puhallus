@@ -12,9 +12,6 @@ Lippujen hinnat:
 * Normaali: 20 e + palvelumaksu
 * Alennusryhmät: 15 e + palvelumaksu
 
-
-Liput Pohjankartanon iltakonserttiin tulevat myyntiin pian!
-
 ## Osta liput iltakonserttiin
 
 {%- include lippukauppa.html -%}
