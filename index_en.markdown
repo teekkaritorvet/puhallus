@@ -10,4 +10,6 @@ Puhallus Festival is a biennial music event that brings together academic wind o
 
 This year, twelve academic student wind orchestras from across Finland are taking part in the event. Altogether, nearly 300 musicians will be seen and heard in Oulu during Puhallus. The orchestra lineup is highly diverse, featuring big bands, traditional wind orchestras, and a wide range of other kinds of entertaining ensembles. Musical genres range from pop and rock to classical wind orchestra music – not forgetting newer-French-horn-music. Many of the performing orchestras will also bring to the table their own unique flavour through dance groups and various show elements.
 
+### Official promo video of the festival
+
 {% include youtube_embed.html video_id="nURPKchvhQw" %}
