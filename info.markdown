@@ -46,6 +46,8 @@ Lentoasemalta pääsee bussilinjalla 8 [Rautasaari P (2127)](https://oulunliiken
 
 *Salissa on myös induktiosilmukka.*
 
+Esitys voi sisältää voimakkaita ääniä.
+
 ## Yhdenvertaisuus
 Puhalluksen osallistujaorkesterit ja niiden jäsenet ovat sitoutuneet noudattamaan turvallisemman tilan periaatteita. Odotamme tätä myös tapahtumaan osallistuvilta yleisöltä.
 ### Turvallisemman tilan periaatteet

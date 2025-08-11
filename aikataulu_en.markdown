@@ -5,12 +5,17 @@ permalink: /en/schedule/
 lang: en
 ref: aikataulu
 ---
-*English version coming soon...*
+The program of Saturday, September 20th, consists of a free daytime concert and a ticketed evening concert.
+
+During the daytime concert, orchestras will perform approximately 30-minute sets on the Rotuaari Stage or in Mannerheim Park in the center of Oulu.
+
+The festival culminates in the evening concert, where each orchestra takes the stage to present their very best 12-minute spectacle. In total, the concert features 11 different performances by the participating orchestras. It's a rare opportunity to see this many musicians on stage – you should definitely not miss this!
+
 
 
 ## Schedule of the day concert
 
-|Time               | Rotuaari    | Mannerheimin puisto |
+|Time               | Rotuaari    | Mannerheim Park |
 | ----              | ----------- | -----------         |
 | 10.00-10.30       | Torvikopla          | *Break*      |
 | 10.20-10.50       | *Break*        | Humpsvakar & Rumpskakar |
@@ -27,4 +32,24 @@ ref: aikataulu
 
 ## Evening concert
 
-*English version coming soon...*
+The evening concert takes place at Pohjankartano Hall at 6:00 PM.
+
+[Tickets](https://puhallusfestivaali.fi/en/tickets/)
+
+### Performing orchestras:
+
+Teekkaritorvet, Oulu <br>
+RytmiHäiriköt, Joensuu <br>
+Savolaisen Osakunnan Soitannollinen Seura (SOSSu), Helsinki <br>
+Tampereen Teknilliset Ylioppilastorwet (TTY), Tampere<br>
+Sohon Torwet, Turku<br>
+Teknologorkestern Humpsvakar & Rumpskakar, Helsinki<br>
+Puhkupillit, Jyväskylä<br>
+Puhallinorkesteri Akateeminen Henkäys (PAH), Tampere<br>
+Axelbandet, Turku<br>
+Retuperän WBK, Helsinki<br>
+Torvikopla Big Band, Tampere<br>
+
+Duration of the concert 3,5 h including intermission. <br>
+Recommended age 13+. <br>
+The concert might contain loud noises. <br>

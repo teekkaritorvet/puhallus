@@ -31,4 +31,24 @@ kaikista parhaan spektaakkelinsa 12 minuutissa. Tämä konsertti sisältää sii
 
 ## Iltakonsertti
 
-Iltakonsertti Pohjankartanon salissa klo 18. Konsertti sisältää lyhyen väliajan.
+Festivaalin huipentuman voi kokea Pohjankartanon salissa järjestettävässä iltakonsertissa. Ideana on esitellä oman orkesterinsa parhaat puolet 12 minuutissa. Iltakonsertissa kuullaan siis tähän tarkoitukseen valmisteltu musiikillinen spektaakkeli yhteensä 11 orkesterilta. Soittajia lavalla näkee miltei 300, joten tällaista konserttia on mahdollista kokea vain hyvin harvoin–seuraavan kerran Oulussa aikaisintaan 12 vuoden päästä.
+
+[Liput](https://puhallusfestivaali.fi/liput/)
+
+### Esiintyvät orkesterit esiintymisjärjestyksessä:
+
+Teekkaritorvet, Oulu <br>
+RytmiHäiriköt, Joensuu <br>
+Savolaisen Osakunnan Soitannollinen Seura (SOSSu), Helsinki <br>
+Tampereen Teknilliset Ylioppilastorwet (TTY), Tampere<br>
+Sohon Torwet, Turku<br>
+Teknologorkestern Humpsvakar & Rumpskakar, Helsinki<br>
+Puhkupillit, Jyväskylä<br>
+Puhallinorkesteri Akateeminen Henkäys (PAH), Tampere<br>
+Axelbandet, Turku<br>
+Retuperän WBK, Helsinki<br>
+Torvikopla Big Band, Tampere<br>
+
+Arvioitu kesto 3,5 h sisältäen väliajan.<br>
+Ikäsuositus 13+<br>
+Esitys voi sisältää voimakkaita ääniä.<br>

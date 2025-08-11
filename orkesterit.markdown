@@ -111,7 +111,11 @@ SOSSu eli Helsingin yliopiston Savolaisen Osakunnan Soitannollinen Seura on tän
   image_alt= 'Kuva Ompagniet orkesterista'
 %}
 
-*Suomenkielinen versio tulossa*
+Ompagniet, verdens nordigste studentblåsorkester, on Tromssassa toimiva opiskelijaorkesteri. Kuten nimikin kertoo, olemme ylpeitä siitä, että olemme maailman pohjoisin opiskelijaorkesteri! Ompagniet kokoaa yhteen opiskelijoita eri puolilta Norjaa – ja ympäri maailmaa – luoden monimuotoisen ja lämpimän musiikillisen yhteisön.
+
+Meidät näkee (ja kuulee!) useimmiten paraateissa, esimerkiksi Arctic Pride -tapahtumassa sekä 17. toukokuuta vietettävissä Norjan kansallispäivän juhlissa. Meidät voi kuitenkin tilata esiintymään myös muihin tilaisuuksiin vuoden mittaan kysynnän mukaan.
+
+Ohjelmistomme on monipuolinen: klassisia teoksia yhdistetään moderneihin ja tunnetumpiin kappaleisiin – jokaiselle kuulijalle jotakin. Riippumatta siitä, näetkö meidät Tromssan kaduilla vai jossain erityisessä tapahtumassa, Ompagniet tarjoaa energiaa, väriä ja upeaa musiikkia.
 
 [Studentblaaseaarkæsteret Ompagniet](https://www.samfunnetuit.no/)
 {% include single_social_icon.html platform="instagram" username="ompagniet" %}

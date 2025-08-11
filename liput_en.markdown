@@ -5,9 +5,15 @@ permalink: /en/tickets/
 lang: en
 ref: liput
 ---
-*English version coming soon...*
+Get tickets to the evening concert through Lippu Light.
 
-Liput Pohjankartanon iltakonserttiin tulevat myyntiin pian!
+Ticket prices:
+
+* Normal: 20 e + service fee
+* Discount groups: 15 e + service fee
+
+Ticket sales open soon!
+
 
 ## Osta liput iltakonserttiin
 
