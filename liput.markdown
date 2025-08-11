@@ -9,8 +9,8 @@ Festivaali huipentuu iltakonserttiin, jossa jokainen orkesteri astuu lavalle esi
 
 Lippujen hinnat:
 
-Normaali: 20 e + palvelumaksu
-Alennusryhmät: 15 e + palvelumaksu
+* Normaali: 20 e + palvelumaksu
+* Alennusryhmät: 15 e + palvelumaksu
 
 
 Liput Pohjankartanon iltakonserttiin tulevat myyntiin pian!
