@@ -16,18 +16,18 @@ kaikista parhaan spektaakkelinsa 12 minuutissa. Tämä konsertti sisältää sii
 
 |Aika               | Rotuaari    | Mannerheimin puisto |
 | ----              | ----------- | -----------         |
-| 10.00-10.30       | Torvikopla          | *Roudaustauko*      |
-| 10.20-10.50       | *Roudaustauko*        | Humpsvakar & Rumpskakar |
-| 11.00-11.30       | Sohon Torwet    | *Roudaustauko*   |
-| 11.10-11.40       | *Roudaustauko*        | Ompagniet |
-| 11.55-12.25       | *Roudaustauko*        | PAH |
-| 12.05-12.35       | Puhkupillit       | *Roudaustauko*  |
-| 12.45-13.15       | *Roudaustauko*   | Retuperän WBK |
-| 13.10-13.40       | Axelbandet       | *Roudaustauko* |
-| 13.35-14.05       | *Roudaustauko*   | TTY |
-| 14.10-14.40       | RytmiHäiriköt       | *Roudaustauko*  |
-| 14.25-14.55       | *Roudaustauko*     | Teekkaritorvet |
-| 15.10-15.40       | SOSSu       | *Roudaustauko*  |
+| 10.00-10.30       | Torvikopla (Tampere)          | *Roudaustauko*      |
+| 10.20-10.50       | *Roudaustauko*        | Humpsvakar & Rumpskakar (Esbo) |
+| 11.00-11.30       | Sohon Torwet (Turku)   | *Roudaustauko*   |
+| 11.10-11.40       | *Roudaustauko*        | Ompagniet (Tromsø) |
+| 11.55-12.25       | *Roudaustauko*        | PAH (Tampere)|
+| 12.05-12.35       | Puhkupillit (Jyväskylä)       | *Roudaustauko*  |
+| 12.45-13.15       | *Roudaustauko*   | Retuperän WBK (Espoo)|
+| 13.10-13.40       | Axelbandet (Åbo)       | *Roudaustauko* |
+| 13.35-14.05       | *Roudaustauko*   | TTY (Tampere)|
+| 14.10-14.40       | RytmiHäiriköt (Joensuu)      | *Roudaustauko*  |
+| 14.25-14.55       | *Roudaustauko*     | Teekkaritorvet (Oulu) |
+| 15.10-15.40       | SOSSu (Helsinki)    | *Roudaustauko*  |
 
 ## Iltakonsertti
 
@@ -42,13 +42,14 @@ RytmiHäiriköt, Joensuu <br>
 Savolaisen Osakunnan Soitannollinen Seura (SOSSu), Helsinki <br>
 Tampereen Teknilliset Ylioppilastorwet (TTY), Tampere<br>
 Sohon Torwet, Turku<br>
-Teknologorkestern Humpsvakar & Rumpskakar, Helsinki<br>
+Teknologorkestern Humpsvakar & Rumpskakar, Esbo <br>
 Puhkupillit, Jyväskylä<br>
 Puhallinorkesteri Akateeminen Henkäys (PAH), Tampere<br>
-Axelbandet, Turku<br>
-Retuperän WBK, Helsinki<br>
+Axelbandet, Åbo<br>
+Retuperän WBK, Espoo<br>
 Torvikopla Big Band, Tampere<br>
 
 Arvioitu kesto 3,5 h sisältäen väliajan.<br>
+Liput 15/20 + palvelumaksut <br>
 Ikäsuositus 13+<br>
 Esitys voi sisältää voimakkaita ääniä.<br>
