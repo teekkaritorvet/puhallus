@@ -24,7 +24,8 @@ Teekkaritorvet on Oulun tavoitelluin viihdeorkesteri, jonka soittajakunta on lä
   image_alt= 'Kuva Axelbandet puhallinorkesterista'
 %}
 
-*Suomenkielinen versio tulossa..*
+Olemme Åbo Akademin paras, suurin ja ainoa big band! Olemme soittaneet tauotta vuodesta 1957 ja meistä olisi mahtavaa, jos tulisit mukaan toteuttamaan jaloa unelmaamme aiheuttaa mahdollisimman paljon hämmennystä vielä vuosikymmenten ajan! Repertuaariimme kuuluu kaikenlaista musiikkia, nopeasta hitaaseen, valssaavasta jatsaavaan ja rockaavaan, kovaäänisestä ei niin kovaääniseen sekä tyhmästä vakavaan.
+
 {% include single_social_icon.html platform="instagram" username="axelbandet" %}
 
 ## PAH (Puhallinorkesteri Akateeminen Henkäys)
