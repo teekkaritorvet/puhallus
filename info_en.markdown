@@ -10,7 +10,13 @@ ref: info
 
 You can get to Oulu by train, bus, car, or airplane.
 
-## Rotuaari ja Mannerheimin puisto
+Map of the event:
+{% include image_include.html
+  image_path= '/assets/images/tapahtumakartta.png'
+  image_alt= 'Places of the event on the map'
+%}
+
+## Rotuaari ja Mannerheiminpuisto
 
 The train and bus stations are less than a kilometer’s walk from the day concert stages. Additionally, you can take local buses to and from stops such as [Linja-autoasema E (2109)](https://oulunliikenne.fi/pysakit/OULU%3A120796) (e.g. buses 2, 7, 8, 5) and [Matkakeskus P (3222)](https://oulunliikenne.fi/pysakit/OULU%3A184167) (buses A and C).
 If arriving by car, parking is available at Kivisydän car park, which has an exit directly in front of the Rotuaari stage. Oulu Airport is located about 15 kilometers away in Oulunsalo. Bus lines 8 and 9 run from the airport to the stop [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799), near both the Rotuaari stage and Mannerheim Park.
@@ -33,7 +39,7 @@ From the airport, take bus line 8 to the stop [Rautasaari P (2127)](https://oulu
 * The best local bus stops are [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799) or [Hellaakoski (2111)](https://oulunliikenne.fi/pysakit/OULU%3A120798), from which you can walk along the pedestrian street to both the Rotuaari stage and Mannerheim Park.
 * Accessible parking is available at Kivisydän car park (parking fee), with direct access to Rotuaari Square.
 
-### Mannerheimin puisto
+### Mannerheiminpuisto
 
 * Public restrooms available, including accessible toilets.
 * Best accessed via the [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799) or [Hellaakoski (2111)](https://oulunliikenne.fi/pysakit/OULU%3A120798) stop; from there, the park is a short walk along the pedestrian street.

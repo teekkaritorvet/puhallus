@@ -9,7 +9,13 @@ ref: info
 
 Ouluun pääsee junalla, bussilla, autolla tai lentokoneella.
 
-### Rotuaari ja Mannerheimin puisto
+Tapahtumapaikat kartalla:
+{% include image_include.html
+  image_path= '/assets/images/tapahtumakartta.png'
+  image_alt= 'Tapahtumapaikat kartalla'
+%}
+
+### Rotuaari ja Mannerheiminpuisto
 
 Rautatie- ja bussiasema sijaitsevat alle kilometrin kävelymatkan päässä päiväkonsertin lavoilta. Lisäksi paikallisliikenne liikennöi pysäkiltä [Linja-autoasema E (2109)](https://oulunliikenne.fi/pysakit/OULU%3A120796) (esimerkiksi bussit 2, 7, 8, 5) sekä [Matkakeskus P (3222)](https://oulunliikenne.fi/pysakit/OULU%3A184167) (bussit A ja C). Autolla voi parkkeerata esimerkiksi Kivisydämeen, mistä on uloskäynti suoraan Rotuaarin lavan eteen. Oulun lentoasema sijaitsee n. 15 kilometrin ajomatkan päässä Oulunsalossa. Bussilinjat 8 ja 9 liikennöivät sieltä Rotuaarin lavan ja Mannerheimin puiston läheisyyteen pysäkille [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799).
 
@@ -30,7 +36,7 @@ Lentoasemalta pääsee bussilinjalla 8 [Rautasaari P (2127)](https://oulunliiken
 * Joukkoliikenteellä pääsee parhaiten [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799) tai [Hellaakoski (2111)](https://oulunliikenne.fi/pysakit/OULU%3A120798) pysäkille, josta kävelukatua pitkin pääsee sekä Rotuaarin lavalle, että Mannerheimin puistoon.
 * Esteetön pysäköinti Kivisydämessä (maksullinen), mistä pääsee Rotuaarin aukiolle.
 
-### Mannerheimin puisto
+### Mannerheiminpuisto
 
 * Yleiset WC:t missä Inva-WC.
 * Joukkoliikenteellä pääsee parhaiten [Rotuaari (2112)](https://oulunliikenne.fi/pysakit/OULU%3A120799) tai [Hellaakoski (2111)](https://oulunliikenne.fi/pysakit/OULU%3A120798) pysäkille, josta kävelukatua pitkin pääsee sekä Rotuaarin lavalle, että Mannerheimin puistoon.
