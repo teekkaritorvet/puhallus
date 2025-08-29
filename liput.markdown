@@ -15,3 +15,5 @@ Lippujen hinnat:
 ## Osta liput iltakonserttiin
 
 {%- include lippukauppa.html -%}
+
+[Jos lippukaupan upotus ei toimi, pääset sinne tästä (siirryt ulkoiseen palveluun)](https://www.eventim-light.com/fi/a/68933817f1c86e1354f542aa/e/68936163074b285131453c9e)

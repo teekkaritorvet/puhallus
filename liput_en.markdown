@@ -16,4 +16,4 @@ Ticket prices:
 
 {%- include lippukauppa.html -%}
 
-
+[If the ticket store embed isn't working, you can access it here (you will be redirected to an external service)](https://www.eventim-light.com/fi/a/68933817f1c86e1354f542aa/e/68936163074b285131453c9e)
